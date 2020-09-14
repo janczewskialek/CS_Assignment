@@ -8,3 +8,6 @@ Zeigler, D. W., Wang, C. C., Yoast, R. A., Dickinson, B. D., Mccaffree, M. A., R
 
 
 ![Beer](https://user-images.githubusercontent.com/66892929/93118579-cbb4d100-f6c0-11ea-95fc-31259d75abc2.png)
+
+
+The plot reveals an exponential growth in the consumption of beer in Netherlands from 2006 to 2018. 
