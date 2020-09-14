@@ -1,4 +1,4 @@
-The title of the following papers pivotal to our knowledge:
+# Titles of papers pivotal to our knowledge:
 
 Dyke, M. C., Teixeira, M. M., &amp; Barker, B. M. (2019). Fantastic yeasts and where to find them: The hidden diversity of dimorphic fungal pathogens. 
 
